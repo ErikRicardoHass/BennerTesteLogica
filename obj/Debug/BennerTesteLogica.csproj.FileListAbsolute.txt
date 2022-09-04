@@ -1,0 +1,7 @@
+C:\Users\Metahaush\source\repos\BennerTesteLogica\BennerTesteLogica\bin\Debug\BennerTesteLogica.exe.config
+C:\Users\Metahaush\source\repos\BennerTesteLogica\BennerTesteLogica\bin\Debug\BennerTesteLogica.exe
+C:\Users\Metahaush\source\repos\BennerTesteLogica\BennerTesteLogica\bin\Debug\BennerTesteLogica.pdb
+C:\Users\Metahaush\source\repos\BennerTesteLogica\BennerTesteLogica\obj\Debug\BennerTesteLogica.csprojAssemblyReference.cache
+C:\Users\Metahaush\source\repos\BennerTesteLogica\BennerTesteLogica\obj\Debug\BennerTesteLogica.csproj.CoreCompileInputs.cache
+C:\Users\Metahaush\source\repos\BennerTesteLogica\BennerTesteLogica\obj\Debug\BennerTesteLogica.exe
+C:\Users\Metahaush\source\repos\BennerTesteLogica\BennerTesteLogica\obj\Debug\BennerTesteLogica.pdb
